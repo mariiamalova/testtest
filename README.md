@@ -1,0 +1,1 @@
+![Изображение alt](https://github.com/testtest/blob/main/src/main/resources/img.png)
